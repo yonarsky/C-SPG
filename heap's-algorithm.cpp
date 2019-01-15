@@ -34,6 +34,6 @@ void perm()
 }
 int main()
 {
-	cout << "Hello World!\n";
+	cout << "Permutations:";
 	perm();
 }
